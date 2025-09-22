@@ -6,7 +6,7 @@ The project investigates **thermal short-circuiting**, compares **different tube
 
 ---
 
-## 🌍 Project Background
+##  Project Background
 Conventional geothermal heat exchangers often face challenges with **installation cost** and **thermal interference**.  
 This study explores whether optimized designs can achieve **lower installation costs** while maintaining or improving thermal performance.
 
@@ -17,7 +17,7 @@ Key focus:
 
 ---
 
-## 🛠️ Methodology
+## 🛠 Methodology
 - **Simulation Tool:** ANSYS Fluent (steady-state modeling).  
 - **Geometry:** U-tube vertical ground heat exchangers.  
 - **Assumptions:**  
@@ -31,7 +31,7 @@ Key focus:
 
 ---
 
-## 📊 Key Results
+##  Key Results
 - **Outlet Temperature:**  
   Largely **independent of tube spacing (2–15 inches)** at steady state.  
 - **Approach 1 (Neglect soil):** Nearly identical outlet temps across spacings.  
@@ -48,7 +48,7 @@ Key focus:
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 1. Use **high-conductivity grout** to reduce thermal short-circuiting.  
 2. Optimize **transient behavior** (startup performance) rather than steady state.  
 3. Explore **alternative layouts** (multi-U tubes, helical, or borehole-free).  
@@ -59,7 +59,7 @@ Key focus:
 
 ---
 
-## 🎯 Deliverables
+##  Deliverables
 - **Report:** Comparative thermal performance of geothermal vs. traditional exchangers.  
 - **Simulation Results:** Steady-state and transient performance.  
 - **Recommendations:** Optimal parameters for integration with existing heat pump systems.  
