@@ -17,7 +17,7 @@ Key focus:
 
 ---
 
-## 🛠 Methodology
+##  Methodology
 - **Simulation Tool:** ANSYS Fluent (steady-state modeling).  
 - **Geometry:** U-tube vertical ground heat exchangers.  
 - **Assumptions:**  
