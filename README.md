@@ -67,5 +67,5 @@ Key focus:
 
 ---
 
-## 📌 Importance
+##  Importance
 This study supports Fluidaptic LLC in making **data-driven decisions** about future geothermal product development and helps guide **market strategies** for cost-effective, reliable heat exchangers.
